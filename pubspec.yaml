@@ -1,0 +1,9 @@
+name: positioned_tap_detector_2
+description: "Fork del paquete positioned_tap_detector_2 con corrección para hashValues."
+version: 1.0.4+custom
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
